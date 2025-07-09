@@ -1,8 +1,8 @@
-# gesture_MeArm
+# gesture_BotArm
 
-[English](README.md) | [繁體中文](README_zh.md)
+[English](README.md) | (README_zh.md)
 
-This is a simple gesture recognition program for the MeArm. It uses the MediaPipe to detect hand gestures and control the MeArm.
+This is a simple gesture recognition program for the BotArm. It uses the MediaPipe to detect hand gestures and control the MeArm.
 
 ### [MediaPipe Hand tracking](https://google.github.io/mediapipe/solutions/hands)
 ### [MeArm](https://www.instructables.com/Pocket-Sized-Robot-Arm-meArm-V04)
